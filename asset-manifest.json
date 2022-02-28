@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.623f33cd.css",
+    "main.js": "/static/js/main.13f8b47f.js",
+    "static/media/50c7c3a5-ada6-4b5f-b5d3-53cf9cd323c4 1.png": "/static/media/50c7c3a5-ada6-4b5f-b5d3-53cf9cd323c4 1.5a777d384373f632f7f0.png",
+    "static/media/card-img2.png": "/static/media/card-img2.4c43a572f099c64e2253.png",
+    "static/media/card-img4.png": "/static/media/card-img4.b595d6a037b25c7f078d.png",
+    "static/media/card-img1.png": "/static/media/card-img1.52f353caa65e33564f65.png",
+    "static/media/hero-left-img.png": "/static/media/hero-left-img.2ade8a2305c0b8d6af14.png",
+    "static/media/hero-right-img.png": "/static/media/hero-right-img.02da5d20a66d2a4cacc2.png",
+    "static/media/card-img3.png": "/static/media/card-img3.437dcbda5c453fbd9adc.png",
+    "static/media/avatar.png": "/static/media/avatar.a403489e89091534ad56.png",
+    "static/media/Canaro-Book.woff2": "/static/media/Canaro-Book.9f8b2d392b5a3d358a46.woff2",
+    "index.html": "/index.html",
+    "main.623f33cd.css.map": "/static/css/main.623f33cd.css.map",
+    "main.13f8b47f.js.map": "/static/js/main.13f8b47f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.623f33cd.css",
+    "static/js/main.13f8b47f.js"
+  ]
+}
